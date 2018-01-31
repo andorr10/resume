@@ -35,7 +35,7 @@ Socket.io, React, Handlebars, VBA, Excel, PHP, Public Speaking, Agile Methodolog
 ```
 # Experience
 
-## Consumer Experience Consultant, Humana, Irvine, CA                            2015  -­  2017 
+## Consumer Experience Consultant, Humana, Irvine, CA                               2015  -­  2017 
 
 ```
 ● Managed internal website, worked with Employer Groups Director, kept employees informed on market changes
@@ -44,27 +44,27 @@ employee engagement, and improved health and wellbeing of group
 ● Established well­being and engagement plans for employers ranging in size of 150 to 20,000  members
 ● Designed and staffed wellness activities, improved the consumer experience for over 20 employers
 ```
-## Market Admin Support, Humana, Irvine, CA                            2014  -­  2015 
+## Market Admin Support, Humana, Irvine, CA                                         2014  -­  2015 
 
 ```
 ● Developed market Sales Database with Excel and VBA to coordinate with Sales Analytics and Compensation
 ● Streamlined distribution process of member enrollments, decreased time required to process new members
 ● Partnered with Sales Compensation Department, provided data for implementation of sales incentive plans
 ```
-## Management Assistant, ZB Savoy, San Diego, CA                            2013  ­  
+## Management Assistant, ZB Savoy, San Diego, CA                                              2013  ­  
 
-## Cognitive Design Studio, UCSD, La Jolla, CA                             2012 
+## Cognitive Design Studio, UCSD, La Jolla, CA                                                2012 
 
 # Education
 
-### The Coding Bootcamp at UT Austin     2017  ­  2017 
+### The Coding Bootcamp at UT Austin                                                       ­  2017 
 
-### University of California, San Diego     2008  ­  2012 
+### University of California, San Diego                                              2008  ­  2012 
 Major: B.S. Cognitive Science with emphasis in Neuroscience Minor: History
 
 ## Personal
 
 I enjoy doing things to stay active like hiking and playing soccer or beach volleyball; I’m also a member to the cult
 of Crossfit, but don’t adhere to the first rule of Crossfit of always having to talk about it. My friends and I made a virtual
-book club that meets online since were spread across the country, the current book is Soonish: 10 emerging technologies
+book club that meets online since we're spread across the country, the current book is Soonish: 10 emerging technologies
 that will improve and/or ruin everything. My favorite countries I’ve traveled to so far have been Belize and Iceland.
